@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/moongoblin/Documents/Developments/employee-management-app/service/service.csproj": {}
+    "/Users/moongoblin/Documents/Developments/GivingTree/services/services.csproj": {}
   },
   "projects": {
-    "/Users/moongoblin/Documents/Developments/employee-management-app/service/service.csproj": {
+    "/Users/moongoblin/Documents/Developments/GivingTree/services/services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/moongoblin/Documents/Developments/employee-management-app/service/service.csproj",
-        "projectName": "service",
-        "projectPath": "/Users/moongoblin/Documents/Developments/employee-management-app/service/service.csproj",
+        "projectUniqueName": "/Users/moongoblin/Documents/Developments/GivingTree/services/services.csproj",
+        "projectName": "services",
+        "projectPath": "/Users/moongoblin/Documents/Developments/GivingTree/services/services.csproj",
         "packagesPath": "/Users/moongoblin/.nuget/packages/",
-        "outputPath": "/Users/moongoblin/Documents/Developments/employee-management-app/service/obj/",
+        "outputPath": "/Users/moongoblin/Documents/Developments/GivingTree/services/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/moongoblin/.nuget/NuGet/NuGet.Config"

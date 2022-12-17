@@ -1,0 +1,40 @@
+<div>
+  <form class="max-w-[440px] mx-auto text-black/60">
+    <div class="mb-4 text-center text-black/90">
+      <h1 class="text-3xl mb-2">Sign Up</h1>
+      <h3>
+        New to GivingTree?
+        <a
+          routerLink="/singup"
+          class="text-green-500 hover:underline hover:text-green-600"
+          >Sign up</a
+        >
+      </h3>
+    </div>
+    <div>
+      <label>Email</label>
+      <app-form-input></app-form-input>
+    </div>
+    <div>
+      <label>Password</label>
+      <app-form-input></app-form-input>
+    </div>
+    <app-submit-button></app-submit-button>
+    <div
+      class="text-green-500 text-center mt-4 hover:underline hover:text-green-600"
+    >
+      <a routerLink="/forgot-password">Forgot your password?</a>
+    </div>
+    <div class="flex items-center my-6">
+      <div class="flex-1 bg-gray-100 h-[1px]"></div>
+      <div class="mx-4 text-black/90">OR</div>
+      <div class="flex-1 bg-gray-100 h-[1px]"></div>
+    </div>
+    <button
+      class="bg-blue-500 text-white w-full rounded py-2 mt-6 flex items-center justify-center hover:bg-blue-600"
+    >
+      <div>Sing in with Facebook</div>
+      <ng-icon name="ionLogoFacebook" class="text-xl ml-2"></ng-icon>
+    </button>
+  </form>
+</div>
