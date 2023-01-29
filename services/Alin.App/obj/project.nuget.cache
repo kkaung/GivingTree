@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "v2CefOTNK1xAcSga4AnAWyLtORxw/pOZ82lUGXcsqzfVsidfxpWI85/5ongZWzPVd/eWTp4q+20qlt5ie/lCFw==",
+  "success": true,
+  "projectFilePath": "/Users/moongoblin/Documents/Developments/GivingTree/services/Alin.App/Alin.App.csproj",
+  "expectedPackageFiles": [
+    "/Users/moongoblin/.nuget/packages/mediatr/11.1.0/mediatr.11.1.0.nupkg.sha512",
+    "/Users/moongoblin/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

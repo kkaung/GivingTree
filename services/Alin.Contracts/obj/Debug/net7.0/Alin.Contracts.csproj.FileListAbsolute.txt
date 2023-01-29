@@ -1,0 +1,5 @@
+/Users/moongoblin/Documents/Developments/GivingTree/services/Alin.Contracts/obj/Debug/net7.0/Alin.Contracts.csproj.AssemblyReference.cache
+/Users/moongoblin/Documents/Developments/GivingTree/services/Alin.Contracts/obj/Debug/net7.0/Alin.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/moongoblin/Documents/Developments/GivingTree/services/Alin.Contracts/obj/Debug/net7.0/Alin.Contracts.AssemblyInfoInputs.cache
+/Users/moongoblin/Documents/Developments/GivingTree/services/Alin.Contracts/obj/Debug/net7.0/Alin.Contracts.AssemblyInfo.cs
+/Users/moongoblin/Documents/Developments/GivingTree/services/Alin.Contracts/obj/Debug/net7.0/Alin.Contracts.csproj.CoreCompileInputs.cache

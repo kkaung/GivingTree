@@ -1,0 +1,4 @@
+
+
+namespace Alin.Infrastructure.Data;
+
